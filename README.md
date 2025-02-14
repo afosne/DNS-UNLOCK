@@ -26,3 +26,5 @@
 提供接口方法,请您点击 [dns_unlock.swagger.json](api/dns_unlock.swagger.json) 获取其中的json格式文件用于导入支持Swagger
 API 的程序来使用.
 
+### 联系方式
+如果你有任何问题需要咨询可以加入群聊 [telegram](https://t.me/Dns_Unlock)
