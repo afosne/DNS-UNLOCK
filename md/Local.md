@@ -53,6 +53,9 @@ hosts:
   需要解锁的域名3: 您获取的服务器地址2
 ```
 
-### 方法二  重写本地host
+### 方法二  重写本地HOST 
+直接编写本地host 或者使用[switchhosts](https://switchhosts.vercel.app/zh) 来编写,推荐第二种比较适合不熟悉电脑的用户
 
 ### 方法三  搭建本地DNS服务
+使用适合系统的adguard Home Acrylic 等的软件搭配使用
+
