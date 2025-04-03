@@ -9,7 +9,7 @@ DNS解锁软件五花八门,我这里就将一些比较简单的实现:
 请按照一下步骤进行操作以获取DNS服务器地址:
 
 1. 从[adguard-dns.io](https://adguard-dns.io/)
-   通过邮箱注册一个账号并打开[DNS-UNLOCK 配置工具](https://snipage.afosne.us.kg/);
+   通过邮箱注册一个账号并打开[DNS-UNLOCK 配置工具](https://afosne.pp.ua/);
 
 2. 填写基本配置中的国家代码(支持的 [国家列表](../config/country.json) )
 
