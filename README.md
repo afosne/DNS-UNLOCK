@@ -23,7 +23,7 @@
 ### 高级用法
 
 我们继续延续了某些用户需要API来实现高级操作采用 [Swagger API](https://swagger.io/)
-提供接口方法,请您点击 [Swagger API_接口地址](https://sni.afosne.us.kg/ui) 获取其中的json格式文件用于导入支持Swagger
+提供接口方法,请您点击 [Swagger API_接口地址](https://api.afosne.pp.ua/ui) 获取其中的json格式文件用于导入支持Swagger
 API 的程序来使用.
 
 ### 联系方式
